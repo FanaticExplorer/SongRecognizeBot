@@ -1,0 +1,8 @@
+my_bot.session
+my_bot.session-journal
+user_files/
+venv/
+test.py
+*.mp3
+*.json
+.idea/
